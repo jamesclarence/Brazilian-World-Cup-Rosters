@@ -16,7 +16,7 @@ Roster URLs:
 1958: http://en.wikipedia.org/wiki/1958_FIFA_World_Cup_squads#.C2.A0Brazil
 1962: http://en.wikipedia.org/wiki/1962_FIFA_World_Cup_squads#.C2.A0Brazil
 1966: http://en.wikipedia.org/wiki/1966_FIFA_World_Cup_squads#.C2.A0Brazil
-1970: 18/22 http://en.wikipedia.org/wiki/Brazil_at_the_1970_FIFA_World_Cup
+1970: http://en.wikipedia.org/wiki/Brazil_at_the_1970_FIFA_World_Cup
 http://en.wikipedia.org/wiki/1970_FIFA_World_Cup_squads#.C2.A0Brazil
 1974: http://en.wikipedia.org/wiki/1974_FIFA_World_Cup_squads#.C2.A0Brazil
 1978: http://en.wikipedia.org/wiki/1978_FIFA_World_Cup_squads#.C2.A0Brazil
